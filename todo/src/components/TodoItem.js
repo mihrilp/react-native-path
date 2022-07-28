@@ -22,8 +22,8 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#86AF56',
     borderRadius: 5,
-    marginBottom: 10,
-    padding: 8,
+    marginBottom: 13,
+    padding: 10,
   },
   text: {
     fontSize: 20,

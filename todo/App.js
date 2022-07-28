@@ -96,7 +96,7 @@ const styles = StyleSheet.create({
   header: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    marginBottom: 25,
+    marginBottom: 30,
   },
   title: {
     fontSize: 35,
